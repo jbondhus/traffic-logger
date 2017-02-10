@@ -1,0 +1,4 @@
+{
+  "sql_connection_string": "mysql://username:password@hostname:3306/database",
+  "google_api_key": "secret"
+}
